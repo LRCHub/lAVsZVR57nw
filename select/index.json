@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Odyssey",
+  "base_artist": "Nornis",
+  "createdAt": "2025-12-08T09:35:03.253600Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Odyssey (Greek version)",
+      "artist": "The Flight feat. Mike Georgiades & Fanny Perrier-Rochas",
+      "has_synced": true,
+      "path": "select/01_Odyssey_(Greek_version)_The_Flight_feat._Mike_Georgiades_&_Fanny_Perrier-Rochas.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Odyssey (Greek version)",
+      "artist": "The Flight, Mike Georgiades, Fanny Perrier-Rochas",
+      "has_synced": true,
+      "path": "select/02_Odyssey_(Greek_version)_The_Flight,_Mike_Georgiades,_Fanny_Perrier-Rochas.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Odyssey Finale",
+      "artist": "Jean-Michel Jarre",
+      "has_synced": false,
+      "path": "select/03_Odyssey_Finale_Jean-Michel_Jarre.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Odyssey Overture",
+      "artist": "Jean-Michel Jarre",
+      "has_synced": true,
+      "path": "select/04_Odyssey_Overture_Jean-Michel_Jarre.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Odyssey Phase 2",
+      "artist": "Jean-Michel Jarre",
+      "has_synced": false,
+      "path": "select/05_Odyssey_Phase_2_Jean-Michel_Jarre.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Odyssey Phase 3",
+      "artist": "Jean-Michel Jarre",
+      "has_synced": true,
+      "path": "select/06_Odyssey_Phase_3_Jean-Michel_Jarre.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Odyssey Of The Mind",
+      "artist": "Enigma",
+      "has_synced": true,
+      "path": "select/07_Odyssey_Of_The_Mind_Enigma.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Odyssey",
+      "artist": "Nornis",
+      "has_synced": false,
+      "path": "select/pl_01_Odyssey_Nornis.txt"
+    }
+  ]
+}
